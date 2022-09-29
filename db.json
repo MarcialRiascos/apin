@@ -1,35 +1,13 @@
 {
     "results": [
       {
-        "nombre": "NOTICIERO B/TURA",
+        "nombre": "FIN DE SEMANA",
         "zona": "",
         "llamadas": "",
         "whatsapp": "",
-        "web": "https://bit.ly/3y2iLcW",
+        "web": "https://bit.ly/3LSZpwu",
         "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305445320_203905525327574_6704849460258214619_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=XkkAv57TMakAX_5UtDI&_nc_oc=AQnZBBG7Mq7twGSu1aet2nz_10vcq_vaja07FP43fx0y2mKe91UGTbF1aZbc4esj41w&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-WX48ma73x5NhDUw7rZkCc6Xg79CN3DlSGZYmyFua8yA&oe=633AAB66"
-        },
-        "nat": "NO"
-      },
-      {
-        "nombre": "TV NOTICIAS",
-        "zona": "",
-        "llamadas": "",
-        "whatsapp": "",
-        "web": "https://bit.ly/3SqgyAk",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305970161_203909275327199_3313929427134451530_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=RCJ8ZkyhsNQAX_zi2_q&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9KeaFO-q85K1-17m9YziRTDMdXnZTZIED4ord5v8ABZA&oe=633B3191"
-        },
-        "nat": "NO"
-      },
-      {
-        "nombre": "NOTICIAS 1/2 DIA",
-        "zona": "",
-        "llamadas": "",
-        "whatsapp": "",
-        "web": "https://bit.ly/3CkWgCJ",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306554067_203910095327117_5051658627958829280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oFkX1ivpNRIAX-ddm6d&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_CjjWGvbUhXKyf3B94Bx-wZyQGGnbeYrTjtX3azKcYYw&oe=633ACD29"
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305971783_203911398660320_5700557249641565424_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=e68vi0qcocMAX_7WU0u&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-k1hRnoulOJay-czhNrNkVbnxa4N17AecTf4iTiPYVBw&oe=633A0F79"
         },
         "nat": "NO"
       },
@@ -45,13 +23,35 @@
         "nat": "NO"
       },
       {
-        "nombre": "FIN DE SEMANA",
+        "nombre": "NOTICIERO B/TURA",
         "zona": "",
         "llamadas": "",
         "whatsapp": "",
-        "web": "https://bit.ly/3LSZpwu",
+        "web": "https://bit.ly/3y2iLcW",
         "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305971783_203911398660320_5700557249641565424_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=e68vi0qcocMAX_7WU0u&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-k1hRnoulOJay-czhNrNkVbnxa4N17AecTf4iTiPYVBw&oe=633A0F79"
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305445320_203905525327574_6704849460258214619_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=XkkAv57TMakAX_5UtDI&_nc_oc=AQnZBBG7Mq7twGSu1aet2nz_10vcq_vaja07FP43fx0y2mKe91UGTbF1aZbc4esj41w&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-WX48ma73x5NhDUw7rZkCc6Xg79CN3DlSGZYmyFua8yA&oe=633AAB66"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "NOTICIAS 1/2 DIA",
+        "zona": "",
+        "llamadas": "",
+        "whatsapp": "",
+        "web": "https://bit.ly/3CkWgCJ",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306554067_203910095327117_5051658627958829280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oFkX1ivpNRIAX-ddm6d&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_CjjWGvbUhXKyf3B94Bx-wZyQGGnbeYrTjtX3azKcYYw&oe=633ACD29"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "TV NOTICIAS",
+        "zona": "",
+        "llamadas": "",
+        "whatsapp": "",
+        "web": "https://bit.ly/3SqgyAk",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305970161_203909275327199_3313929427134451530_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=RCJ8ZkyhsNQAX_zi2_q&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9KeaFO-q85K1-17m9YziRTDMdXnZTZIED4ord5v8ABZA&oe=633B3191"
         },
         "nat": "NO"
       }
