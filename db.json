@@ -45,6 +45,17 @@
         "nat": "NO"
       },
       {
+        "nombre": "TELEMAR",
+        "zona": "",
+        "llamadas": "",
+        "whatsapp": "",
+        "web": "https://bit.ly/3SHQZu7",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/309600669_203944515323675_808391335415205769_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Npxr1xyY0QcAX-EZY8B&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_8WOlsB1iCadM3t6S99tAFxY5cabPpT4-gEDAjIIq2hg&oe=633A71BD"
+        },
+        "nat": "NO"
+      },
+      {
         "nombre": "TV NOTICIAS",
         "zona": "",
         "llamadas": "",
